@@ -1,6 +1,6 @@
+'''
 Zoey Sears & Deanna Soukup 2019
 
-'''
 During a panic attack, humans experience heart palpitations and elevated heart rate.
 The human will wear a wear an IoT heart rate monitor.
 simulated heart rate data is posted to piland.socialdevices.io
