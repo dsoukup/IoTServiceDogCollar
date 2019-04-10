@@ -1,7 +1,10 @@
+Zoey Sears & Deanna Soukup 2019
+
 '''
 During a panic attack, humans experience heart palpitations and elevated heart rate.
 The human will wear a wear an IoT heart rate monitor.
-In this prototype, simulated heart rate data is posted to piland.socialdevices.io
+simulated heart rate data is posted to piland.socialdevices.io
+a button is depressed to simulate a panic attack
 Because sustained exercise will also raise the human's heart rate,
 the human's heart rate monitor should be removed or turned off during exercise.
 '''
